@@ -1,0 +1,8 @@
+// Write a programe to findout total and average of 1 student for 5 subject
+
+
+
+
+write a program to find highest runs out of given 5 runs take runs as an input from user
+
+write a program to find lowest goals out of given 5 matches take runs as an input from user
