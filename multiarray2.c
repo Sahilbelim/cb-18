@@ -18,8 +18,26 @@ void main()
   printf("avg of student %d is %d\n",j+1, avg[j]);
   }
 
-
-
+  if(avg[0]>avg[1] && avg[0]>avg[2] && avg[0]>avg[3] && avg[0]>avg[4])
+  {
+  printf(" student 1 is first rank");
+  }
+  else if (avg[1] > avg[0] && avg[1] > avg[2] && avg[1] > avg[3] && avg[1] > avg[4])
+  {
+  printf(" student 2 is first rank");
+  }
+  else if (avg[2] > avg[0] && avg[2] > avg[1] && avg[2] > avg[3] && avg[2] > avg[4])
+  {
+  printf(" student 3 is first rank");
+  }
+  else if (avg[3] > avg[0] && avg[3] > avg[2] && avg[3] > avg[1] && avg[3] > avg[4])
+  {
+  printf(" student 4 is first rank");
+  }
+  else if (avg[4] > avg[0] && avg[4] > avg[1] && avg[4] > avg[2] && avg[4] > avg[3])
+  {
+  printf(" student 5 is first rank");
+  }
 //   avg[1] = marks[1][0] + marks[1][1] + marks[1][2] + marks[1][3] + marks[1][4];
 //   avg[2] = marks[2][j] + marks[2][1] + marks[2][2] + marks[2][3] + marks[2][4];
 

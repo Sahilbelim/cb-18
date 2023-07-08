@@ -23,6 +23,7 @@ user defined function (UDF)
 	
 how to create function 
 	syntax 
+	
 	datatype function-name(datatype variable-name,[datatype variable-name....])
 	{
 		
