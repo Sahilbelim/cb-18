@@ -27,6 +27,7 @@ how to create function
 	datatype function-name(datatype variable-name,[datatype variable-name....])
 	{
 		
+		
 	}
 	
 	example 
@@ -37,7 +38,7 @@ how to create function
 	
 how to call function/run function?
 	syntax
-		function-name() 
+		function-name();
 example 
 void main()
 {

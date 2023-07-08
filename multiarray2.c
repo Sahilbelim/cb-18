@@ -38,8 +38,8 @@ void main()
   {
   printf(" student 5 is first rank");
   }
-//   avg[1] = marks[1][0] + marks[1][1] + marks[1][2] + marks[1][3] + marks[1][4];
-//   avg[2] = marks[2][j] + marks[2][1] + marks[2][2] + marks[2][3] + marks[2][4];
+//   avg[1] = marks[1][0] + marks[1][1] + marks[1][2] + marks[1][3] + marks[1][4]/5;
+//   avg[2] = marks[2][j] + marks[2][1] + marks[2][2] + marks[2][3] + marks[2][4]/5;
 
   //    printf("Enter the student 2 marks\n");
   //    for (temp = 0; temp <= 4; temp++)
