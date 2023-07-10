@@ -7,6 +7,7 @@ void printsymbol( char c,int num)
     {
 
         printf("%c", c);
+        
     }
     printf("\n");
     
