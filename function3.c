@@ -9,7 +9,7 @@ void main()
 
     int r;
     float area, pi;
-    pi = getpi();
+    pi = getpi();//3.14
     printf("Enter value of circle radius ");
     scanf("%d", &r);
 
