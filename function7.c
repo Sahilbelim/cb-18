@@ -6,7 +6,7 @@ float getpi()
 void main()
 {
     float r,aera,pi;
-    pi = getpi();
+   pi= getpi();
     printf("Enter radius of circle ");
     scanf("%f", &r);
     aera = pi * r * r;
